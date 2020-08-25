@@ -1,0 +1,16 @@
+{
+	"details":{
+		"name":"Sowmya Challagulla",
+		"email":"sowmyach@gmail.com",
+		"phno":9112345678,
+		"object":"As a Fresher to gain knowledge and placed in a company",
+		"edu":[{"name":"Vignan Global Gen School","year":"2015-2016","per":"100%"},
+			{"name":"Shri Chaitanya jr college","year":"2016-2018","per":"100%"},
+			{"name":"Vishnu engineering college for women","year":"2018-2022","per":"100%"}
+		],
+		"skills":["c","c++","java","mysql","reactjs"],
+		"soft":["playing Throwball","Active in Group Discussion","Leads my team"]
+
+
+	}
+}
