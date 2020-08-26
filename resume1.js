@@ -120,9 +120,7 @@ c.appendChild(img);
 		ul.appendChild(li);
 	}
 	c1.appendChild(ul);
-	var line=document.createElement('hr');
-	main.appendChild(line);
-
+	
 	var r=document.createElement("div");
 	r.classList.add('row');
 	main.appendChild(r);
